@@ -153,7 +153,7 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": 5,
+            "timeout": "3",
             "slides": [
               {
                 "active": false,
@@ -246,7 +246,7 @@
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/terracota-oxford-5-2000x1349.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -259,6 +259,21 @@
                 "text": "Laissez vous inspirer avec notre banque d 'inspiration",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://BIOPIETRA.MA/INSPIRATION\" data-toolbar=\"-mbrBtnMove\">INSPIRATIONS</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/classic-milano-7-2000x1500.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "<br><br><br><br><br><br><br>Notre Politique:",
+                "showText": true,
+                "text": "BIOPIETRA: La Satisfaction de nos clients",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://BIOPIETRA.MA/CONTACT\" data-toolbar=\"-mbrBtnMove\">CONTACTER NOUS</a> "
               }
             ],
             "fullScreen": true,
