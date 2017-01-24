@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128.png",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 60,
+    "uniqCompNum": 61,
     "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1395,6 +1395,19 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#323232"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"CONTACT.html\" data-toolbar=\"-mbrBtnMove\">CONTACTEZ NOUS</a> "
         }
       ]
     }
