@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BIOPIETRA.MA",
-    "currentPage": "QSN.html",
+    "currentPage": "CONTACT.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128.png",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -743,6 +743,40 @@
       "components": [
         {
           "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1u",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -837,40 +871,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_styles": {
-            "UL": {
-              "text-align": "left",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "_anchor": "contacts2-1a",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "33.499333, -7.767922",
-              "placeId": "ChIJF_r12WUqpg0Rrj7XqrzuG9o",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@biopietra.ma<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<ul><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>BIOPIETRA</b></span></font><br><li><a href=\"http://BIOPIETRA.MA/PRODUITS\">PRUDOUITS</a></li><li><a href=\"https://BIOPIETRA.MA/INSPIRATION\">INSPIRATIONS</a></li><li><a href=\"https://BIOPIETRA.MA/MONTAGE\">MONTAGE</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"https://BIOPIETRA.MA/CONTACT\">CONTACT</a></span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"https://BIOPIETRA.MA/DISTRIBUTEUR\">DISTIBUTEUR</a></span></li></ul>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-1b",
           "_params": {
@@ -895,8 +895,8 @@
           "_anchor": "map1-1q",
           "_params": {
             "googleMap": {
-              "address": "Casablanca",
-              "placeId": "ChIJOxGqeEfNpw0R0w8xT9jBBgs",
+              "address": "33.499333, -7.767922",
+              "placeId": "ChIJF_r12WUqpg0Rrj7XqrzuG9o",
               "state": "ok",
               "stateDetails": ""
             }
@@ -909,53 +909,56 @@
           "_name": "form1",
           "_anchor": "form1-1r",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#ffffff",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#323232",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": true
+            "showSubTitle": false
           },
-          "title": "CONTACT FORM",
+          "title": "CONTACTEZ-NOUS",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "form": {
-            "action": "Eliasbenouda@gmail.com",
+            "action": "contact@piedra.ma",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Nous avons bien reçu votre message et vous en remercions. Nous vous recontacterons dans les plus brefs délais"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Nom"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "E-mail*"
               },
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "Telephone"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Votre Message"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACTEZ-NOUS</a>",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           }
         }
@@ -1545,7 +1548,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128-4.png",
+              "src": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128-5.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -1561,7 +1564,7 @@
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong>Contacts</strong><br>\nEmail: Contact@piedra.ma<br>\nPhone: +212 664 74 04 00<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Catalogue<br>Facebook<br>\nInstagram"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"Home.html\">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"MONTAGE.html\">Montage</a><br><a href=\"QSN.html\">Biopietra</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"CONTACT.html\">Contact</a><br><a href=\"PRODUITS.html\">Produits</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"DISTRIBUTEUR.html\">Distibuteur</a><br>\n<a href=\"INSPIRATIONS.html\">Realisations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"Home.html\">Catalogue</a>"
         }
       ]
     }

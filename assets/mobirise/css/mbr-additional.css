@@ -691,7 +691,10 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 
-
+#msg-box8-1u .mbr-section-title,
+#msg-box8-1u p {
+  color: #fff;
+}
 #menu-19 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -754,12 +757,11 @@ h6,
 #menu-19 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#contacts2-1a UL {
-  text-align: left;
-  font-family: 'Lato', sans-serif;
-}
 #form1-1r .form-control-label {
-  color: #232323;
+  color: #ffffff;
+}
+#form1-1r .mbr-section-title {
+  color: #ffffff;
 }
 
 
