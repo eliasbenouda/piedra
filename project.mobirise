@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BIOPIETRA.MA",
-    "currentPage": "Home.html",
+    "currentPage": "QSN.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128.png",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 54,
+    "uniqCompNum": 58,
     "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -404,40 +404,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BIOPIETRA</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://Biopietra.ma\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://Biopietra.ma\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://Biopietra.ma\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Home.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"QSN.html\">BIOPIETRA</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"PRODUITS.html\" aria-expanded=\"true\">PRODUITS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"INSPIRATIONS.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">INSPIRATION</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HTTP://BIOPIETRA.MA/INSPIRATIONS/ALL\">ALL INSPIRATION</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HTTP://BIOPIETRA.MA/INSPIRATIONS/COMMERCES\">COMMERCES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HTTP://BIOPIETRA.MA/INSPIRATIONS/EXTERIEURS\">EXTERIEURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HTTP://BIOPIETRA.MA/INSPIRATIONS/TERRASSES\">TERRASSES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HTTP://BIOPIETRA.MA/INSPIRATIONS/SEJOURS\">SEJOURS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HTTP://BIOPIETRA.MA/INSPIRATIONS/CHAMBRECOUCHER\">CHAMBRE A COUCHER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HTTP://BIOPIETRA.MA/INSPIRATIONS/TOILETTES\">TOILETTES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"HTTP://BIOPIETRA.MA/INSPIRATIONS/CIUSINES\">CUISINES</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"MONTAGE.html\" aria-expanded=\"false\">MONTAGE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DISTRIBUTEUR.html\" aria-expanded=\"false\">DISTRIBUTEUR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_styles": {
-            "UL": {
-              "text-align": "left",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "_anchor": "contacts2-11",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "33.499333, -7.767922",
-              "placeId": "ChIJF_r12WUqpg0Rrj7XqrzuG9o",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@biopietra.ma<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<ul><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>BIOPIETRA</b></span></font><br><li><a href=\"http://BIOPIETRA.MA/PRODUITS\">PRUDOUITS</a></li><li><a href=\"https://BIOPIETRA.MA/INSPIRATION\">INSPIRATIONS</a></li><li><a href=\"https://BIOPIETRA.MA/MONTAGE\">MONTAGE</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"https://BIOPIETRA.MA/CONTACT\">CONTACT</a></span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"https://BIOPIETRA.MA/DISTRIBUTEUR\">DISTIBUTEUR</a></span></li></ul>"
         },
         {
           "_tags": [
@@ -1179,40 +1145,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_styles": {
-            "UL": {
-              "text-align": "left",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "_anchor": "contacts2-1g",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "33.499333, -7.767922",
-              "placeId": "ChIJF_r12WUqpg0Rrj7XqrzuG9o",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@biopietra.ma<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<ul><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>BIOPIETRA</b></span></font><br><li><a href=\"http://BIOPIETRA.MA/PRODUITS\">PRUDOUITS</a></li><li><a href=\"https://BIOPIETRA.MA/INSPIRATION\">INSPIRATIONS</a></li><li><a href=\"https://BIOPIETRA.MA/MONTAGE\">MONTAGE</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"https://BIOPIETRA.MA/CONTACT\">CONTACT</a></span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"https://BIOPIETRA.MA/DISTRIBUTEUR\">DISTIBUTEUR</a></span></li></ul>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-1h",
           "_params": {
@@ -1228,6 +1160,106 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Site realise par<a href=\"http://virtualservices.ma\"> Virtual Services</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1i",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/foto-663-lg-2000x1500-1.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#000",
+            "contentAlign": "right",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "<br><br>L’artisanat de la pierre nous revient ......&nbsp;<div>BIOPIETRA vous le propose</div><div><br></div>",
+          "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">Nous présentons une vaste gamme de pierres en apportant conseil à l’achat et à la mise en œuvre. Notre choix de base, plus de cent modèles peuvent être mixés…</span><br><br>Un résultat surprenant pour un prix abordable.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"PRODUITS.html\" data-toolbar=\"-mbrBtnMove\">PRODUITS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"INSPIRATIONS.html\" data-toolbar=\"-mbrBtnMove\">INSPIRATION</a> ",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "font-size": "16px",
+              "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#323232",
+            "showMeta": true
+          },
+          "title": "<div><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">&nbsp;POLITIQUE: LA SATISFACTION</span></div><div><br></div>",
+          "meta": "BIOPIETRA est leader dans l’habillage de mur en pierres artisanale et artistique. Nous proposons, assistons ou plaçons les pierres depuis plus de 5 années.<br><br>Nous comptons plus de 1350 réalisations en au Maroc dont plus de 200 sont visibles de lieux publics….<br><br>Nous sommes en mesure de proposer un vaste choix d'habillage de parement en pierres décoratives.<br>Plus de deux cents modèles et coloris sont disponible, et peuvent éventuellement êtres mixé entre eux. <br>Nous apportons le conseil quant aux différents systèmes de placement et pouvons apporter une assistance aux exécutants.<br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1k",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#323232",
+            "showMeta": true
+          },
+          "title": "<br>Envie de découvrir notre savoir-faire?",
+          "meta": "Découvrez nos réalisations"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#323232"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"INSPIRATIONS.html\" data-toolbar=\"-mbrBtnMove\">REALISATIONS</a> "
         }
       ]
     }
