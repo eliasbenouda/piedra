@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BIOPIETRA.MA",
-    "currentPage": "PRODUITS.html",
+    "currentPage": "CONTACT.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -34,7 +34,7 @@
     "Home.html": {
       "settings": {
         "main": true,
-        "title": "créateur de dalles, margelles et parement mural",
+        "title": "BIOPIETRA créateur de dalles, margelles et parement mural",
         "meta_descr": "BIOPIETRA MAROC SARL",
         "header_custom": "",
         "footer_custom": "",
@@ -349,7 +349,7 @@
     },
     "PRODUITS.html": {
       "settings": {
-        "title": "créateur de dalles, margelles et parement mural",
+        "title": "BIOPIETRA créateur de dalles, margelles et parement mural",
         "meta_descr": "BIOPIETRA MAROC SARL"
       },
       "components": [
@@ -508,7 +508,7 @@
     "INSPIRATIONS.html": {
       "settings": {
         "meta_descr": "BIOPIETRA MAROC SARL",
-        "title": "créateur de dalles, margelles et parement mural"
+        "title": "BIOPIETRA créateur de dalles, margelles et parement mural"
       },
       "components": [
         {
@@ -665,7 +665,7 @@
     },
     "MONTAGE.html": {
       "settings": {
-        "title": "créateur de dalles, margelles et parement mural",
+        "title": "BIOPIETRA créateur de dalles, margelles et parement mural",
         "meta_descr": "BIOPIETRA MAROC SARL"
       },
       "components": [
@@ -977,7 +977,7 @@
     },
     "CONTACT.html": {
       "settings": {
-        "title": "créateur de dalles, margelles et parement mural",
+        "title": "BIOPIETRA créateur de dalles, margelles et parement mural",
         "meta_descr": "BIOPIETRA MAROC SARL"
       },
       "components": [
@@ -1245,7 +1245,7 @@
     "DISTRIBUTEUR.html": {
       "settings": {
         "meta_descr": "BIOPIETRA MAROC SARL",
-        "title": "créateur de dalles, margelles et parement mural"
+        "title": "BIOPIETRA créateur de dalles, margelles et parement mural"
       },
       "components": [
         {
@@ -1463,7 +1463,7 @@
     },
     "QSN.html": {
       "settings": {
-        "title": "créateur de dalles, margelles et parement mural",
+        "title": "BIOPIETRA créateur de dalles, margelles et parement mural",
         "meta_descr": "BIOPIETRA MAROC SARL"
       },
       "components": [
