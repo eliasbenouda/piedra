@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BIOPIETRA.MA",
-    "currentPage": "DISTRIBUTEUR.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -304,6 +304,44 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Site realise par<a href=\"http://virtualservices.ma\"> Virtual Services</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128-6.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: Contact@piedra.ma<br>\nPhone: +212 664 74 04 00<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"Home.html\">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"MONTAGE.html\">Montage</a><br><a href=\"QSN.html\">Biopietra</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"CONTACT.html\">Contact</a><br><a href=\"PRODUITS.html\">Produits</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"DISTRIBUTEUR.html\">Distibuteur</a><br>\n<a href=\"INSPIRATIONS.html\">Realisations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"Home.html\">Catalogue</a>"
         }
       ]
     },
@@ -424,6 +462,44 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Site realise par<a href=\"http://virtualservices.ma\"> Virtual Services</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128-6.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: Contact@piedra.ma<br>\nPhone: +212 664 74 04 00<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"Home.html\">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"MONTAGE.html\">Montage</a><br><a href=\"QSN.html\">Biopietra</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"CONTACT.html\">Contact</a><br><a href=\"PRODUITS.html\">Produits</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"DISTRIBUTEUR.html\">Distibuteur</a><br>\n<a href=\"INSPIRATIONS.html\">Realisations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"Home.html\">Catalogue</a>"
         }
       ]
     },
@@ -529,40 +605,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_styles": {
-            "UL": {
-              "text-align": "left",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "_anchor": "contacts2-14",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pierre-seche-athracite-copie-2000x2000.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C",
-            "googleMap": {
-              "address": "33.499333, -7.767922",
-              "placeId": "ChIJF_r12WUqpg0Rrj7XqrzuG9o",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: info@biopietra.ma<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<ul><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>BIOPIETRA</b></span></font><br><li><a href=\"http://BIOPIETRA.MA/PRODUITS\">PRUDOUITS</a></li><li><a href=\"https://BIOPIETRA.MA/INSPIRATION\">INSPIRATIONS</a></li><li><a href=\"https://BIOPIETRA.MA/MONTAGE\">MONTAGE</a></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"https://BIOPIETRA.MA/CONTACT\">CONTACT</a></span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"https://BIOPIETRA.MA/DISTRIBUTEUR\">DISTIBUTEUR</a></span></li></ul>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "footer1",
           "_anchor": "footer1-15",
           "_params": {
@@ -578,6 +620,44 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Site realise par<a href=\"http://virtualservices.ma\"> Virtual Services</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128-6.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: Contact@piedra.ma<br>\nPhone: +212 664 74 04 00<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"Home.html\">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"MONTAGE.html\">Montage</a><br><a href=\"QSN.html\">Biopietra</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"CONTACT.html\">Contact</a><br><a href=\"PRODUITS.html\">Produits</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"DISTRIBUTEUR.html\">Distibuteur</a><br>\n<a href=\"INSPIRATIONS.html\">Realisations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"Home.html\">Catalogue</a>"
         }
       ]
     },
@@ -852,6 +932,44 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Site realise par<a href=\"http://virtualservices.ma\"> Virtual Services</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128-6.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: Contact@piedra.ma<br>\nPhone: +212 664 74 04 00<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"Home.html\">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"MONTAGE.html\">Montage</a><br><a href=\"QSN.html\">Biopietra</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"CONTACT.html\">Contact</a><br><a href=\"PRODUITS.html\">Produits</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"DISTRIBUTEUR.html\">Distibuteur</a><br>\n<a href=\"INSPIRATIONS.html\">Realisations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"Home.html\">Catalogue</a>"
         }
       ]
     },
@@ -1081,6 +1199,44 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128-6.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: Contact@piedra.ma<br>\nPhone: +212 664 74 04 00<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"Home.html\">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"MONTAGE.html\">Montage</a><br><a href=\"QSN.html\">Biopietra</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"CONTACT.html\">Contact</a><br><a href=\"PRODUITS.html\">Produits</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"DISTRIBUTEUR.html\">Distibuteur</a><br>\n<a href=\"INSPIRATIONS.html\">Realisations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"Home.html\">Catalogue</a>"
         }
       ]
     },
@@ -1262,6 +1418,44 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128-6.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: Contact@piedra.ma<br>\nPhone: +212 664 74 04 00<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"Home.html\">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"MONTAGE.html\">Montage</a><br><a href=\"QSN.html\">Biopietra</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"CONTACT.html\">Contact</a><br><a href=\"PRODUITS.html\">Produits</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"DISTRIBUTEUR.html\">Distibuteur</a><br>\n<a href=\"INSPIRATIONS.html\">Realisations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"Home.html\">Catalogue</a>"
         }
       ]
     },
@@ -1682,7 +1876,7 @@
           "_name": "contacts1",
           "_anchor": "contacts1-1t",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,

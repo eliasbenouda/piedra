@@ -555,7 +555,6 @@ h6,
   color: #c0a375!important;
 }
 
-
 #menu-13 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -617,10 +616,6 @@ h6,
 #menu-13 .link[aria-expanded="true"],
 #menu-13 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#contacts2-14 UL {
-  text-align: left;
-  font-family: 'Lato', sans-serif;
 }
 
 #header3-1z .mbr-section-title,
