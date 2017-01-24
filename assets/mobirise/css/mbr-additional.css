@@ -758,6 +758,9 @@ h6,
   text-align: left;
   font-family: 'Lato', sans-serif;
 }
+#form1-1r .form-control-label {
+  color: #232323;
+}
 
 
 #menu-1c .hide-buttons .nav-btn {
@@ -928,4 +931,10 @@ h6,
 }
 #features3-1m H4 {
   color: #ffffff;
+}
+#form2-1s .mbr-section-title {
+  color: #fff;
+}
+#form2-1s .mbr-section-subtitle {
+  color: #a0a0a0;
 }
