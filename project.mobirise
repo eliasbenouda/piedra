@@ -1277,7 +1277,7 @@
           "_anchor": "header3-1n",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgColor": "#323232",
             "showMeta": false
           },
