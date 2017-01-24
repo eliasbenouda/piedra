@@ -623,7 +623,17 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 
-
+#header3-1z .mbr-section-title,
+#header3-1z .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1z H3 {
+  color: #ffffff;
+}
+#features3-1y P {
+  text-align: left;
+  color: #ffffff;
+}
 #menu-16 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -685,10 +695,6 @@ h6,
 #menu-16 .link[aria-expanded="true"],
 #menu-16 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#contacts2-17 UL {
-  text-align: left;
-  font-family: 'Lato', sans-serif;
 }
 
 #msg-box8-1u .mbr-section-title,
@@ -764,7 +770,6 @@ h6,
   color: #ffffff;
 }
 
-
 #menu-1c .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -827,9 +832,11 @@ h6,
 #menu-1c .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#contacts2-1d UL {
-  text-align: left;
-  font-family: 'Lato', sans-serif;
+#msg-box5-1w H3 {
+  color: #ffffff;
+}
+#msg-box5-1w P {
+  color: #ffffff;
 }
 
 #menu-1f .hide-buttons .nav-btn {
