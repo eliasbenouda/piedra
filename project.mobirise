@@ -159,12 +159,12 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/terracota-bristol-1-2000x1388.png",
+                "image": "@PROJECT_PATH@/assets/images/terracota-bristol-1-2000x1388-1.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "overlayOpacity": "0.3",
-                "contentAlign": "right",
+                "overlayOpacity": "0.2",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "BIOPIETRA",
                 "showText": true,
