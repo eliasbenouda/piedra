@@ -555,6 +555,19 @@ h6,
   color: #c0a375!important;
 }
 
+#msg-box2-22 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-22 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#header3-23 .mbr-section-title,
+#header3-23 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-23 H3 {
+  color: #ffffff;
+}
 #menu-13 .hide-buttons .nav-btn {
   display: none !important;
 }
