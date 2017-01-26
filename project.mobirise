@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128.png",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 76,
+    "uniqCompNum": 78,
     "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -343,7 +343,7 @@
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong>Contacts</strong><br>\nEmail: Contact@piedra.ma<br>\nPhone: +212 664 74 04 00<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"Home.html\">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"MONTAGE.html\">Montage</a><br><a href=\"QSN.html\">Piedra</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CONTACT.html\">Contact</a><br><a href=\"PRODUITS.html\">Produits</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"DISTRIBUTEUR.html\">Distibuteur</a><br>\n<a href=\"INSPIRATIONS.html\">Realisations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"Home.html\">Catalogue</a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"Home.html\">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"MONTAGE.html\">Montage</a><br><a href=\"QSN.html\">Piedra</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CONTACT.html\">Contact</a><br><a href=\"PRODUITS.html\">Produits</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"DISTRIBUTEUR.html\">Distibuteur</a><br><a href=\"INSPIRATIONS.html\">Inspirations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"Home.html\">Catalogue</a>"
         }
       ]
     },
@@ -828,6 +828,172 @@
           "allItem": "All"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-24",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#323232",
+            "showMeta": true
+          },
+          "title": "CLASSIC",
+          "meta": "CLASSIC BARI"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-1-1-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-1-1-2000x1498.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-2-1-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-2-1-2000x1498.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-3-11-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-3-11-2000x1498.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-4-10-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-4-10-2000x1497.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-5-9-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-5-9-2000x1498.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-6-8-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-6-8-2000x1497.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-7-7-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-7-7-2000x1498.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-8-3-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-8-3-2000x1498.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-9-2-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-9-2-2000x1498.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-10-6-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-10-6-2000x1497.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-11-5-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-11-5-2000x1497.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-bari-12-4-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-bari-12-4-2000x1498.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#323232",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-25",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -863,7 +1029,7 @@
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong>Contacts</strong><br>\nEmail: Contact@piedra.ma<br>\nPhone: +212 664 74 04 00<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"Home.html\">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"MONTAGE.html\">Montage</a><br><a href=\"QSN.html\">Piedra</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CONTACT.html\">Contact</a><br><a href=\"PRODUITS.html\">Produits</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"DISTRIBUTEUR.html\">Distibuteur</a><br>\n<a href=\"INSPIRATIONS.html\">Realisations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"Home.html\">Catalogue</a>"
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"Home.html\">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"MONTAGE.html\">Montage</a><br><a href=\"QSN.html\">Piedra</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CONTACT.html\">Contact</a><br><a href=\"PRODUITS.html\">Produits</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"DISTRIBUTEUR.html\">Distibuteur</a><br><a href=\"INSPIRATIONS.html\">Inspirations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"Home.html\">Catalogue</a>"
         }
       ]
     },
