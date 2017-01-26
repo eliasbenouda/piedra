@@ -1031,3 +1031,10 @@ h6,
 #header3-2b H3 {
   color: #ffffff;
 }
+#header3-2e .mbr-section-title,
+#header3-2e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2e H3 {
+  color: #ffffff;
+}
