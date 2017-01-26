@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BIOPIETRA.MA",
-    "currentPage": "INSPIRATIONS.html",
+    "currentPage": "CLASSIC.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/biopietra-maroc-3-128x128.png",
     "noImageResize": "",
     "versionFirst": "3.10.8",
-    "uniqCompNum": 90,
+    "uniqCompNum": 94,
     "versionPublish": "3.10.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -513,41 +513,131 @@
       "components": [
         {
           "_styles": {
-            ".mbr-section-title": {
+            ".mbr-section-title, p": {
               "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-22",
+          "_name": "content5",
+          "_anchor": "content5-2j",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "5",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
+            "overlayColor": "#000",
             "showTitle": true,
-            "showText": false
+            "showCaption": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "title": "INSPIRATIONS",
-          "text": ""
+          "title": "INSPIRATION",
+          "caption": "<p>LAISSEZ-VOUS INSPIRER PAR NOTRE BANQUE D'INSPIRATION</p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "<a href=\"CLASSIC.html\">CLASSIC</a>",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "TERRACOTA"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "MEDIEVAL"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "ROCKOLD"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "MOSAIC"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "LAJAS"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#323232",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2h",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_styles": {
@@ -698,102 +788,6 @@
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
           "text2": "<strong>Contacts</strong><br>\nEmail: Contact@piedra.ma<br>\nPhone: +212 664 74 04 00<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Autre liens</b></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><a href=\"Home.html\">Home</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"MONTAGE.html\">Montage</a><br><a href=\"QSN.html\">Piedra</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"CONTACT.html\">Contact</a><br><a href=\"PRODUITS.html\">Produits</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"DISTRIBUTEUR.html\">Distibuteur</a><br><a href=\"INSPIRATIONS.html\">Inspirations</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"Home.html\">Catalogue</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "<a href=\"CLASSIC.html\">CLASSIC</a>",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "TERRACOTA"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "MEDIEVAL"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "ROCKOLD"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "MOSAIC"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "LAJAS"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
-              }
-            ],
-            "spacing": 1,
-            "showText": true,
-            "filter": false,
-            "bgColor": "#323232",
-            "filterBgColor": true,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-2h",
-          "articleLayout": false,
-          "allItem": "All"
         }
       ]
     },
@@ -2380,6 +2374,125 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-2k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#323232",
+            "showMeta": true
+          },
+          "title": "CLASSIC",
+          "meta": "CLASSIC ROMA"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "CLASSIC ROMA",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "CLASSIC ROMA"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "CLASSIC ROMA"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "CLASSIC ROMA"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "CLASSIC ROMA"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "CLASSIC ROMA"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "CLASSIC ROMA"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "CLASSIC ROMA"
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#323232",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-2l",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-2b",
           "_params": {
             "paddingTop": 1,
@@ -2407,7 +2520,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-bari-1-1-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-bari-1-1-2000x1498.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC BARI",
                 "active": false
               },
               {
@@ -2417,7 +2530,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-bari-2-1-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-bari-2-1-2000x1498.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC BARI",
                 "active": false
               },
               {
@@ -2427,7 +2540,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-bari-3-11-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-bari-3-11-2000x1498.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC BARI",
                 "active": false
               },
               {
@@ -2437,7 +2550,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-bari-4-10-2000x1497-800x598.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-bari-4-10-2000x1497.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC BARI",
                 "active": false
               },
               {
@@ -2447,7 +2560,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-bari-5-9-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-bari-5-9-2000x1498.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC BARI",
                 "active": false
               },
               {
@@ -2457,7 +2570,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-bari-6-8-2000x1497-800x598.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-bari-6-8-2000x1497.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC BARI",
                 "active": false
               },
               {
@@ -2467,7 +2580,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-bari-7-7-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-bari-7-7-2000x1498.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC BARI",
                 "active": false
               },
               {
@@ -2477,7 +2590,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-bari-8-3-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-bari-8-3-2000x1498.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC BARI",
                 "active": false
               },
               {
@@ -2487,7 +2600,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-bari-9-2-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-bari-9-2-2000x1498.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC BARI",
                 "active": false
               },
               {
@@ -2497,7 +2610,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-bari-10-6-2000x1497-800x598.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-bari-10-6-2000x1497.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC BARI",
                 "active": false
               },
               {
@@ -2507,7 +2620,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-bari-11-5-2000x1497-800x598.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-bari-11-5-2000x1497.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC BARI",
                 "active": false
               },
               {
@@ -2517,17 +2630,17 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-bari-12-4-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-bari-12-4-2000x1498.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC BARI",
                 "active": true
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#323232",
             "filterBgColor": true,
             "fullWidth": true,
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "gallery3-2c",
           "articleLayout": false,
@@ -2573,7 +2686,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-milano-1-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-milano-1-2000x1498.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC MILANO",
                 "active": false
               },
               {
@@ -2583,7 +2696,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-milano-2-2000x1497-800x598.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-milano-2-2000x1497.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC MILANO",
                 "active": false
               },
               {
@@ -2593,7 +2706,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-milano-3-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-milano-3-2000x1500.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC MILANO",
                 "active": false
               },
               {
@@ -2603,7 +2716,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-milano-4-2000x1495-800x598.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-milano-4-2000x1495.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC MILANO",
                 "active": false
               },
               {
@@ -2613,7 +2726,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-milano-5-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-milano-5-2000x1498.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC MILANO",
                 "active": false
               },
               {
@@ -2623,7 +2736,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-milano-6-2000x1497-800x598.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-milano-6-2000x1497.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC MILANO",
                 "active": false
               },
               {
@@ -2633,7 +2746,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-milano-7-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-milano-7-2000x1498.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC MILANO",
                 "active": false
               },
               {
@@ -2643,12 +2756,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/classic-milano-8-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/classic-milano-8-2000x1500.jpg",
-                "caption": "Type caption here",
+                "caption": "CLASSIC MILANO",
                 "active": true
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#323232",
             "filterBgColor": true,
