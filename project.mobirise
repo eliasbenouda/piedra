@@ -2399,73 +2399,80 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/classic-roma-1-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-roma-1-2000x1498.jpg",
                 "caption": "CLASSIC ROMA",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "CLASSIC ROMA"
+                "thumb": "@PROJECT_PATH@/assets/images/classic-roma-2-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-roma-2-2000x1498.jpg",
+                "caption": "CLASSIC ROMA",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "CLASSIC ROMA"
+                "thumb": "@PROJECT_PATH@/assets/images/classic-roma-5-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-roma-5-2000x1498.jpg",
+                "caption": "CLASSIC ROMA",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "CLASSIC ROMA"
+                "thumb": "@PROJECT_PATH@/assets/images/classic-roma-8-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-roma-8-2000x1498.jpg",
+                "caption": "CLASSIC ROMA",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "CLASSIC ROMA"
+                "thumb": "@PROJECT_PATH@/assets/images/classic-roma-6-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-roma-6-2000x1497.jpg",
+                "caption": "CLASSIC ROMA",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "CLASSIC ROMA"
+                "thumb": "@PROJECT_PATH@/assets/images/classic-roma-3-2000x1498-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-roma-3-2000x1498.jpg",
+                "caption": "CLASSIC ROMA",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "CLASSIC ROMA"
+                "thumb": "@PROJECT_PATH@/assets/images/classic-roma-7-2000x1498-1-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-roma-7-2000x1498-1.jpg",
+                "caption": "CLASSIC ROMA",
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "CLASSIC ROMA"
+                "thumb": "@PROJECT_PATH@/assets/images/classic-roma-4-2000x1497-800x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/classic-roma-4-2000x1497.jpg",
+                "caption": "CLASSIC ROMA",
+                "active": false
               }
             ],
             "spacing": 1,
