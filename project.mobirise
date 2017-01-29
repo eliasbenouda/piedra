@@ -2351,7 +2351,7 @@
               }
             ],
             "spacing": "1",
-            "showText": true,
+            "showText": false,
             "filter": false,
             "bgColor": "#323232",
             "filterBgColor": false,
@@ -2477,7 +2477,7 @@
               }
             ],
             "spacing": 1,
-            "showText": true,
+            "showText": false,
             "filter": false,
             "bgColor": "#323232",
             "filterBgColor": true,
@@ -2643,7 +2643,7 @@
               }
             ],
             "spacing": 1,
-            "showText": true,
+            "showText": false,
             "filter": false,
             "bgColor": "#323232",
             "filterBgColor": true,
@@ -2769,7 +2769,7 @@
               }
             ],
             "spacing": 1,
-            "showText": true,
+            "showText": false,
             "filter": false,
             "bgColor": "#323232",
             "filterBgColor": true,
