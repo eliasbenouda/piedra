@@ -1096,6 +1096,14 @@ h6,
   color: #ffffff;
   text-align: right;
 }
+#header3-37 .mbr-section-title,
+#header3-37 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-37 H3 {
+  color: #ffffff;
+  text-align: right;
+}
 #contacts1-2d STRONG {
   font-size: 18px;
 }
